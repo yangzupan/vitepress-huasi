@@ -1,0 +1,16 @@
+# Node modules
+**/node_modules/**
+
+# Vuepress Cache
+**/.vitepress/cache/**
+# Vuepress Cache
+**/.vitepress/dist/**
+
+# macOS
+.DS_Store
+
+# Pnpm Store
+.pnpm-store
+
+# Temp
+.temp

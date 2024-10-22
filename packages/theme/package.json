@@ -1,0 +1,30 @@
+{
+  "name": "vitepress-theme-huasi",
+  "description": "A custom VitePress theme",
+  "version": "0.1.0",
+  "keywords": [
+    "vitepress",
+    "vitepress-theme",
+    "vitepress-theme-huasi"
+  ],
+  "author": {
+    "name": "YangZupan",
+    "email": "www@yangzupan.com",
+    "url": "https://yangzupan.com"
+  },
+  "license": "MIT",
+
+  "main": "/src/index.ts",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.4.1",
+    "vue": "^3.5.12"
+  }
+}
