@@ -1,7 +1,7 @@
 {
   "name": "vitepress-theme-huasi",
   "description": "A custom VitePress theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "vitepress",
     "vitepress-theme",
@@ -13,8 +13,7 @@
     "url": "https://yangzupan.com"
   },
   "license": "MIT",
-
-  "main": "/src/index.ts",
+  "main": "src/index.ts",
   "files": [
     "src"
   ],

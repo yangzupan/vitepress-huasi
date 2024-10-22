@@ -1,5 +1,17 @@
 {
   "name": "vitepress-huasi",
-  "private": true,
-  "version": "0.1.0"
+  "description": "A custom VitePress theme",
+  "version": "0.1.1",
+  "keywords": [
+    "vitepress",
+    "vitepress-theme",
+    "vitepress-theme-huasi"
+  ],
+  "author": {
+    "name": "YangZupan",
+    "email": "www@yangzupan.com",
+    "url": "https://yangzupan.com"
+  },
+  "license": "MIT"
+
 }

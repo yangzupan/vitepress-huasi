@@ -14,6 +14,7 @@ const { site, frontmatter } = useData()
     <a href="/">首页</a>
     <Content />
   </div>
-  <div class="bg-red-500">恭喜你，成功了安装了 vitepress-theme-huasi 主题</div>
+
+  <div class="bg-red-500">hello，恭喜你，成功了安装了 vitepress-theme-huasi 主题</div>
 
 </template>
