@@ -2,7 +2,6 @@
   "name": "vitepress-huasi-demo",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
@@ -12,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "^1.4.1",
-    "vitepress-theme-huasi": "^0.1.1"
+    "vitepress": "^1.4.1"
   }
 }

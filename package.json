@@ -2,6 +2,11 @@
   "name": "vitepress-huasi",
   "description": "A custom VitePress theme",
   "version": "0.1.1",
+  "homepage": "https://github.com/yangzupan/vitepress-huasi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangzupan/vitepress-huasi"
+  },
   "keywords": [
     "vitepress",
     "vitepress-theme",
